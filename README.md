@@ -24,7 +24,7 @@ Navigate to the project directory:
    ```
 2. **Compile the code:**
    ```bash
-   g++ -o snake_game main.cpp
+   g++ -o snake_game st.cpp
    ```
 3.**Run the game:**
    ```bash
